@@ -12,7 +12,7 @@ This project uses the [Global Terrorism Database](https://www.start.umd.edu/rese
 ## Instructions
 * Set up a virtual environment through your command prompt by entering *py -m pip install --user virtualenv*.
 * Create the virtual environment by running *py -m venv env*.
-* Run the virtual enviornment by running *venv\scripts\activate*.
+* Run the virtual enviornment by running *env\scripts\activate*.
 * Run *pip3 install -r requirements.txt* on your command line interface to set up the updated libraries and dependencies.
 * Enter *python main.py* into the CLI and the app should open in your default browser. 
 (*WARNING: App takes a long time to load and open; 30-45 seconds*)
