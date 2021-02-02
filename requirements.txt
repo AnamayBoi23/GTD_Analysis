@@ -2,7 +2,7 @@ ansicon==1.89.0
 atomicwrites==1.4.0
 attrs==19.3.0
 backcall==0.2.0
-bleach==3.1.5
+bleach==3.3.0
 blessed==1.17.8
 branca==0.4.1
 Brotli==1.0.7
